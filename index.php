@@ -25,5 +25,9 @@
           <input type="password" class="form-control" name="" id="" placeholder="">
         </div>
     </form>
+    <table>
+        <th>Home</th>
+        <tr>Tipe48</tr>
+    </table>
 </body>
 </html>
