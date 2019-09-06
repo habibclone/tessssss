@@ -27,7 +27,9 @@
     </form>
     <table>
         <th>Home</th>
+        <th>Service</th>
         <tr>Tipe48</tr>
+        <tr>Cleaning</tr>
     </table>
 </body>
 </html>
