@@ -19,5 +19,11 @@
         <li>link</li>
         <li>link</li>
     </ul>
+    <form action="">
+        <div class="form-group">
+          <label for=""></label>
+          <input type="password" class="form-control" name="" id="" placeholder="">
+        </div>
+    </form>
 </body>
 </html>
